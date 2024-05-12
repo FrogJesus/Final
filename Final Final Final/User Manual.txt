@@ -1,0 +1,33 @@
+This application is to show you what you need to make certain Warframes, 
+Weapons(Primary, Secondary, Melee), and companions in the game. 
+
+To start off, launch main.py, then you'll be displayed with 3 buttons, 
+Items, Materials, and Exit. Clicking on the Items button will give you another
+choice to go through. These choices are Weapons, Warframes, and Companions.
+When you click on Weapons you again get hit with another choice to look at 
+the primary, secondary, and melee weapons. Click on Primary. Labels will 
+appear on the screen, scroll over one of them and right above the exit 
+button at the bottom you will see it tells you what relics these items drop 
+from. Click Exit on the Primary Weapons window. Now click Secondary. Like 
+the primary weapons button, you'll have the same option, right above the 
+exit button it will display mouseover text for the individual items and where 
+you can get them. Close this window and repeat with the melee weapons button. 
+Next exit the Weapons Window. Click on the Warframes button in the Items window.
+Now you'll have a list of Warframes on the right, followed by what you need 
+to make their individual parts. If you scroll over the items it tells you 
+where to get them and what planets you need to go to, to farm the resources. 
+Click the Exit button to leave this window. Now click on the Companions button 
+in the Items Window. Similar to what you just saw, mouseover text will display
+the relics to farm these items. Now exit this window alongside the Items window.
+Click on the materials Window, then click on the Material Inputs window. 
+Initially this window was going to help you track what you needed for each 
+individual item, but with mouseover text I was able to display where to get 
+items so now it displays all fully made items, and where to get the parts 
+in the label above the exit button. The Placeholder Stretch label is there
+so the labels don't move when the text displays above the exit button. 
+Click the exit button and click the Where to Find button on the Materials 
+Window. This shows some common resources and what planets you can find them on.
+This button is somewhat redundant considering the mouseover text was above to
+partially do what it does. Exit this window and the Material window.
+You may now exit the application through the Exit button on the Warframe Helper
+Window. 

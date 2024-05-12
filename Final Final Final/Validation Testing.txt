@@ -1,0 +1,18 @@
+This application displays information on where to find parts in Warframe. 
+The way I tested if each individual item in this application worked was by 
+starting it up and doing the intended mouseover displays and seeing if the 
+buttons worked. My initial test came out with some hiccups. As you can see 
+with the materials input window, I had to use Placeholder text to add a new 
+row because it was less work than defining a full grid on that page. Without 
+the Placeholder text for the new row, even with columnspan the mouseover 
+text was stretching into rows below it and moving the grids in wacky ways. I 
+had similar issues with the companions and secondary buttons, but they were 
+fixed in an easier way, I was putting them in different columns before instead
+of rows.
+
+After fixing that I tested everything again, no errors with any mouseover text 
+and no errors with any buttons not working. 
+
+Through the use of the mouseover text it made the material input button and 
+where to find materials somewhat redundant, but overall I decided to keep 
+them anyways. 
